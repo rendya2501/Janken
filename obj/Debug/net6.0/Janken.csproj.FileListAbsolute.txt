@@ -1,0 +1,15 @@
+C:\Users\rendy\Desktop\Janken\bin\Debug\net6.0\Janken.exe
+C:\Users\rendy\Desktop\Janken\bin\Debug\net6.0\Janken.deps.json
+C:\Users\rendy\Desktop\Janken\bin\Debug\net6.0\Janken.runtimeconfig.json
+C:\Users\rendy\Desktop\Janken\bin\Debug\net6.0\Janken.dll
+C:\Users\rendy\Desktop\Janken\bin\Debug\net6.0\Janken.pdb
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.csproj.AssemblyReference.cache
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.AssemblyInfoInputs.cache
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.AssemblyInfo.cs
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.csproj.CoreCompileInputs.cache
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.dll
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\refint\Janken.dll
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.pdb
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\Janken.genruntimeconfig.cache
+C:\Users\rendy\Desktop\Janken\obj\Debug\net6.0\ref\Janken.dll
